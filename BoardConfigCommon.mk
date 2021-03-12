@@ -77,8 +77,6 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(COMMON_PATH)/bluetooth/include
 # Camera
 TARGET_USES_QTI_CAMERA_DEVICE := true
 
-# Charger Mode
-BOARD_CHARGER_ENABLE_SUSPEND := true
 
 # Dex
 ifeq ($(HOST_OS),linux)

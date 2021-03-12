@@ -6,7 +6,6 @@
 
 BOARD_VENDOR := xiaomi
 
-BUILD_BROKEN_USES_BUILD_COPY_HEADERS := true
 
 COMMON_PATH := device/xiaomi/sm8150-common
 
